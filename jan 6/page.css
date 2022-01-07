@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(53, 216, 162);
+}
+#border{
+    background-color: aquamarine;
+    height: 25cm;
+    width: 20cm;
+    margin: 1cm;
+    margin-left: 10cm;
+    border-style: double;
+    border-color: black;
+}
+#heading{
+    background-color: rgb(172, 238, 216);
+    height: 7cm;
+    width: 20cm;
+}
+h1{
+    margin: 0%;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 1cm;
+}
+h3{
+    text-align: center;
+    margin-top: 2cm;
+    font-size: x-large;
+    font-family: Georgia, Times, serif;
+}
+p{
+    margin: 1.3cm;
+    font-family: cursive;
+}
+p::first-letter{
+    font-size: xxx-large;
+}
+h5{
+    text-align: end;
+    
+}
