@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(217, 228, 217);
+}
+#main{
+    margin: 1cm 8cm 1cm 8cm;
+    
+    
+    
+}
+#tri {
+    width: 0;
+    height: 0;
+    
+    
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 300px solid rgb(38, 151, 104);
+    border-width: 7cm;
+}
+#tri1 {
+    width: 0;
+    height: 0;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 300px solid rgb(48, 31, 97);
+    border-width: 7cm;
+    position: relative;
+    bottom: 3cm;
+    
+    
+    
+    
+    
+}
+#tri2 {
+    width: 0;
+    
+    height: 0;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 300px solid lightblue;
+    border-width: 7cm;
+    position: relative;
+    bottom: 6cm;
+}

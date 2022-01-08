@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    
+    
+    
+}
+#header{
+    position: fixed;
+    background-color:rgb(210, 221, 210);
+    height: 2cm;
+    display: flex;
+    width: 100%;
+    
+}
+img{
+    border-radius: 33px;
+}
+#list{
+    margin: 40px;
+    margin-left: 6cm;  
+}
+a{
+    padding: 1.5cm;
+    text-decoration: none;
+    color: black;
+}
+.button1{
+    margin-right: 0.2cm;
+    background-color:rgb(210, 221, 210) ;
+    margin-left: 4cm;
+    border-style: none;
+    font-size: 22px;
+}
+button{
+    margin: 1cm;
+    margin-left: 0.2cm;
+    border-style: none;
+    font-size: 22px;
+    background-color:rgb(189, 226, 189) ;
+}
+#text{
+    display: flex;
+    padding-top: 4cm;
+    background-color: rgb(230, 238, 230);
+    
+    
+    
+    height: 24cm;
+    width: 100%;
+}
+
+#heading{
+    
+    background-color: rgb(230, 238, 230);
+    height: 18cm;
+    width: 40%;
+    
+}
+#heading>h1{
+    
+    font-size:xxx-large;
+    margin-left: 1.5cm;
+    margin-right: 1cm;
+    padding-top: 2cm;
+    opacity: 0.9;
+}
+#heading>p{
+    font-size: xxx-large;
+    margin-left: 1.5cm;
+    
+    margin-right: 1cm;
+    padding-top: 2cm;
+}
+#heading>span>a{
+    font-size: 200%;
+    background-color: black;
+    color: white;
+    padding: 00.2cm;
+    margin-left: 2cm;
+    
+   
+    
+}
+.video{
+    font-size: xx-large;
+}
+#pic{
+    background-color: rgb(230, 238, 230);;
+    height: 18cm;
+    width: 60%;
+}
+#pic>img{
+    height: 16cm;
+    width: 18cm;
+    padding: 1cm;
+    padding-left: 3cm;
+    border-radius: 250px;
+    opacity: 0.7;
+}
+
