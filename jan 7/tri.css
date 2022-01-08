@@ -16,6 +16,9 @@ body{
     border-right: 150px solid transparent;
     border-bottom: 300px solid rgb(38, 151, 104);
     border-width: 7cm;
+    position: relative;
+    top: 12cm;
+    
 }
 #tri1 {
     width: 0;
@@ -25,7 +28,9 @@ body{
     border-bottom: 300px solid rgb(48, 31, 97);
     border-width: 7cm;
     position: relative;
-    bottom: 3cm;
+    top: 1.5cm;
+    
+    
     
     
     
@@ -40,6 +45,6 @@ body{
     border-right: 150px solid transparent;
     border-bottom: 300px solid lightblue;
     border-width: 7cm;
-    position: relative;
-    bottom: 6cm;
+    
+
 }
