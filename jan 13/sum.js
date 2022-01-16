@@ -22,6 +22,6 @@ for(let i =0;i<n;i++){
 
 document.write('<br>')
 
-document.write('<h4>Sum of daigonal elements</h4>')
+document.write('<h4>Sum of diagonal elements</h4>')
 
 document.write(sum);
