@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+table{
+    border: 2px solid rgb(199, 140, 140);
+    margin-left: 450px;
+}
+h1 {
+    text-align: center;
+    
+    
+    color:rgb(32, 161, 32);
+}
+body{
+    background-image: linear-gradient(to right, rgb(248, 214, 214), rgb(205, 205, 245));
+    
+}
+td{
+    padding-left: 10px;
+    border: 0.1px solid  black;
+   color: black;
+   font-style: bold;
+}
+
+th{
+    border: 1px solid black;
+    font-style: bold;
+    color:rgb(49, 33, 33);
+}
