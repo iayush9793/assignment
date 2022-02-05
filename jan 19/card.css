@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    text-align: center;
+    
+}
+body{
+    background: #a2cc92;
+}
+.rev{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-color: 3px solid lightblue;
+}
+.box{
+margin-left: 33%;
+margin-right: 15%;
+text-align: center;
+background-color:rgb(240, 220, 140);
+width: 500px;
+height: 550px;
+padding: 10px;
+border-radius: 20px;
+border: 5px dotted blue;
+}
+#author{
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: extra-expanded;
+    color: darkgoldenrod;
+}
+#job{
+    font-size: 25px;
+    font-weight: bold;
+    color: #10302d;
+}
+#info{
+    font-size: 20px;
+    color: rgb(39, 10, 10);
+}
+.prev-btn{
+    font-size: larger;
+    border-style: none;
+    
+}
+.next-btn{
+    margin-left: 13px;
+    font-size: larger;
+    border-style: none;
+}
+.random-btn{
+    font-size: large;
+    margin-top: 10px;
+}
