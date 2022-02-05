@@ -1,0 +1,93 @@
+
+body{ 
+    margin: 0%;
+}
+#navbar{
+    display: flex;
+    height: 60px;
+    background-color: white;
+   border: 2px solid rgb(221, 215, 208);
+
+}
+#navbar img{
+    width: 49px;
+    height: 50px;
+    padding-left: 20px;
+    padding-left: 250px;
+    padding-top: 7px;
+
+}
+#navbar>p{
+    font-size: 40px;
+    margin-top: 3px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#navbar>span{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 18px;
+    padding-top: 14px;
+}
+#navbar>input{
+    text-align: center;
+    font-size: large;
+    margin-left: 400px;
+    outline: none;
+    border: none;
+}
+#box1{
+    height: 650px;
+    width: 700px;
+    border: 3px solid rgb(226, 225, 225);
+    margin: 35px 0 0 280px;
+    
+}
+.nav2{
+    display: flex;
+    height: 50px;
+    
+}
+.nav2>img{
+    height: 40px;
+    width: 40px;
+    border: 1.5px solid;
+    border-color: grey;
+    border-radius: 50%;
+    margin: 5px ;
+    
+}
+.nav2>p{
+    margin-top: 0%;
+    padding: 10px 0 0 10px;
+}
+#box1>img{
+    height: 450px;
+    width: 100%;
+    padding-top: 10px;
+    
+}
+#icon{
+    height: 20px;
+   
+    
+    
+    
+    
+}
+#icon>span{
+    font-size: x-large;
+    
+}
+#heart{
+    display: none;
+    position:absolute;
+    top: 616px;
+    right: 1285px;
+}
+#box1>p{
+    padding-left: 10px;
+    font-size: large;
+    height: 15px;
+}
